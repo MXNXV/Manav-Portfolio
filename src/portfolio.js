@@ -9,21 +9,21 @@ const settings = {
 const seo = {
   title: "Manav's Portfolio",
   description:
-    "Alpha Microsoft Student Learn Ambassador, Technical Core at Google DSC, A curios learner with an interest in Machine Learning and Data Science. ",
+    "Alpha Microsoft Student Learn Ambassador, Technical Core at Google DSC, A curios learner with an interest in Machine Learning and Data Science. The world isn't perfect. But it's there for us, doing the best it can....that's what makes it so damn beautiful.",
   og: {
-    title: "Ashutosh Hathidara Portfolio",
+    title: "Manav Mandal's Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+      url: "https://mxnxv.github.io",
   },
 };
 
 //Home Page
 const greeting = {
-  title: "Ashutosh Hathidara",
-  logo_name: "AshutoshHathidara",
-  nickname: "layman_brother",
+  title: "Manav Mandal",
+    logo_name: "ManavMandal",
+  nickname: "Friendly Neighbourhood Engineer",
   subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "Alpha Microsoft Student Learn Ambassador, Technical Core at Google DSC. The world isn't perfect. But it's there for us, doing the best it can....that's what makes it so damn beautiful.",
   resumeLink:
     "https://drive.google.com/open?id=1XYpYhLeqCdyx_q6l0bQoC7RgwQjAjXPf",
   portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
