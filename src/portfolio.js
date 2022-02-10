@@ -329,7 +329,7 @@ const certifications = {
     {
         title: "Alpha Microsoft Learn Student Ambassadors",
       subtitle: "- Microsoft",
-      logo_path: "ibm_logo.png",
+      logo_path: "LevelAlpha.png",
       certificate_link:
         "https://studentambassadors.microsoft.com/certificate/4d19850c-043d-4c48-a0b5-0f95565b2e4b",
       alt_name: "MLSA",
