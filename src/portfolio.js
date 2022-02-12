@@ -32,13 +32,13 @@ const greeting = {
 
 const socialMediaLinks = [
   /* Your Social Media Link */
-   github: "https://github.com/MXNXV",
-   linkedin: "https://www.linkedin.com/in/manav-mandal-5b1496196/",
-   gmail: "manavmandalpune.com",
+   //github: "https://github.com/MXNXV",
+   //linkedin: "https://www.linkedin.com/in/manav-mandal-5b1496196/",
+   //gmail: "manavmandalpune.com",
   // gitlab: "https://gitlab.com/ashutoshhathidara98",
   // facebook: "https://www.facebook.com/laymanbrother.19/",
-   twitter: "https://twitter.com/_ManavMandal_",
-   instagram: "https://www.instagram.com/__mandal_orian__/"
+   //twitter: "https://twitter.com/_ManavMandal_",
+   //instagram: "https://www.instagram.com/__mandal_orian__/",
 
   {
     name: "Github",
@@ -73,7 +73,7 @@ const socialMediaLinks = [
 
   {
     name: "Instagram",
-      link: "https://www.instagram.com/__mandal_orian__/"",
+      link: "https://www.instagram.com/__mandal_orian__/",
     fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
     backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
   },
@@ -106,7 +106,7 @@ const skills = {
           },
         },
 
-        },
+       
         {
           skillName: "Python",
           fontAwesomeClassname: "ion-logo-python",
@@ -121,9 +121,8 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building resposive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "⚡ Creating application backend in Node, Express & Flask",
+        "⚡ Building resposive website front end using React",
+        "⚡ Creating application backend in Flask",
       ],
       softwareSkills: [
         {
@@ -140,13 +139,7 @@ const skills = {
             color: "#1572B6",
           },
         },
-        {
-          skillName: "Sass",
-          fontAwesomeClassname: "simple-icons:sass",
-          style: {
-            color: "#CC6699",
-          },
-        },
+        
         {
           skillName: "JavaScript",
           fontAwesomeClassname: "simple-icons:javascript",
@@ -162,13 +155,7 @@ const skills = {
             color: "#61DAFB",
           },
         },
-        {
-          skillName: "NodeJS",
-          fontAwesomeClassname: "simple-icons:node-dot-js",
-          style: {
-            color: "#339933",
-          },
-        },
+        
         {
           skillName: "NPM",
           fontAwesomeClassname: "simple-icons:npm",
@@ -176,27 +163,8 @@ const skills = {
             color: "#CB3837",
           },
         },
-        {
-          skillName: "Yarn",
-          fontAwesomeClassname: "simple-icons:yarn",
-          style: {
-            color: "#2C8EBB",
-          },
-        },
-        {
-          skillName: "Gatsby",
-          fontAwesomeClassname: "simple-icons:gatsby",
-          style: {
-            color: "#663399",
-          },
-        },
-        {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
-          style: {
-            color: "#02569B",
-          },
-        },
+        
+       
       ],
     },
     {
