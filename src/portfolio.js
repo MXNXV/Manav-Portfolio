@@ -388,7 +388,7 @@ const publicationsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "manav.jpg",
     description:
       "I am here to learn and grow so lets connect. I can help you with ML, AI, and Azure Cloud.",
   },
